@@ -48,6 +48,8 @@ listas onde você poderá postar sua vaga:
 - [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
 - [Vagas pra desenvolvedores React e React Native](https://github.com/react-brasil/vagas)
 - [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
+- [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)
+- [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
 
 ## Licença
 
@@ -63,5 +65,4 @@ listas onde você poderá postar sua vaga:
 - [Doe um Livro](https://github.com/frontendbr/doe-um-livro)
 - [Poste Mais!](https://github.com/frontendbr/poste-mais)
 - [Open Source](https://github.com/frontendbr/open-source)
-- [Front-End Week](https://github.com/frontendbr/frontendweek)
 - [Sugestões](https://github.com/frontendbr/sugestoes)
