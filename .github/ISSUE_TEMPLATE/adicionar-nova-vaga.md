@@ -1,6 +1,6 @@
 ---
 name: Adicionar nova vaga
-about: Não esqueça de seguir todas as instruções do template antes de abrir a vaga.
+about: Siga todas as instruções do template antes de abrir a vaga. VAGAS FORA DO TEMPLATE SERÃO EXCLUÍDAS.
 title: "[Cidade] Front-end Developer na Nome da Empresa"
 
 ---
@@ -17,6 +17,13 @@ Use: "Front-End Developer" ao invés de
 Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
 ==================================================
 -->
+
+<!--
+==================================================
+Caso a vaga for remoto durante a pandemia deixar a linha abaixo
+==================================================
+-->
+> Vaga Remota durante a pandemia
 
 ## Nossa empresa
 
